@@ -1,8 +1,9 @@
 # Metis Blockchain Explorer
+![unknown (3) (1)](https://user-images.githubusercontent.com/76135906/169720693-01038e46-27c0-4b26-9841-e30ec6d1b0f0.png)
 
 <!-- project logo w/ quick links -->
 <p align="center">
- 
+
 https://metis-scan.netlify.app/
 
 <!-- about the project -->
